@@ -4,11 +4,13 @@ body{
 
 }
 .navbar {
-    background-color:   #21618c
+    background-color:     #f39c12
+
+
     ;
 }
     .quem-somos{
-        background-color:    #3498db
+        background-color:    #27ae60
         ;
         color: white;
     }
@@ -18,9 +20,16 @@ body{
         padding-top: 10px;
     }
     .parceiros{
-            background-color: #a9cce3;
+            background-color:  #2e86c1 ;
+        
         }
-    .bg-footer{
-        background-color:  grey ;
+        .servicos{
+            background-color: gray
+            ;
+
+        }   
+        
+        .bg-footer{
+        background-color:  #d6eaf8 ;
         color: black;
     }
